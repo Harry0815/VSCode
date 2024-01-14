@@ -1,0 +1,11 @@
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.deps.json
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.runtimeconfig.json
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.runtimeconfig.dev.json
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.dll
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.pdb
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.csprojAssemblyReference.cache
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.csproj.CoreCompileInputs.cache
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.AssemblyInfoInputs.cache
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.AssemblyInfo.cs
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.dll
+c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.pdb
