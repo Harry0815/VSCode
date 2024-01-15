@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YfJ5KBHuwRv2jQZYGsjkDMdEZj3JHEUt1UBpp4HoPEthDCkAqEebBAfgtSGQmsxw5y5913E2Lk+c/mISRqehow==",
+  "dgSpecHash": "rxLVm+jmMihF6rk6Ao3tsDeaU0GQZDLTcKYEGdlaVO9SPyYnDeF2+28oVKQpjjWbHwp792YG87lL+2n0XJZQdg==",
   "success": true,
-  "projectFilePath": "c:\\mastersource\\DockerDevEnviroment\\SignalRChat\\SignalRChat.csproj",
+  "projectFilePath": "c:\\progs\\Mastersource\\VSCode\\SignalRChat\\SignalRChat.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

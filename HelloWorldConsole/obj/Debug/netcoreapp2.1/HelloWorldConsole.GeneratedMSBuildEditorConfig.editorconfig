@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = HelloWorldConsole
-build_property.ProjectDir = c:\mastersource\DockerDevEnviroment\HelloWorldConsole\
+build_property.ProjectDir = C:\progs\Mastersource\VSCode\HelloWorldConsole\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

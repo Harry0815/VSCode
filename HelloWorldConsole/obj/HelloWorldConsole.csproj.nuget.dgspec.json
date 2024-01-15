@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\progs\\Mastersource\\VSCode\\SignalRChat\\SignalRChat.csproj": {}
+    "c:\\progs\\Mastersource\\VSCode\\HelloWorldConsole\\HelloWorldConsole.csproj": {}
   },
   "projects": {
-    "c:\\progs\\Mastersource\\VSCode\\SignalRChat\\SignalRChat.csproj": {
+    "c:\\progs\\Mastersource\\VSCode\\HelloWorldConsole\\HelloWorldConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\progs\\Mastersource\\VSCode\\SignalRChat\\SignalRChat.csproj",
-        "projectName": "SignalRChat",
-        "projectPath": "c:\\progs\\Mastersource\\VSCode\\SignalRChat\\SignalRChat.csproj",
+        "projectUniqueName": "c:\\progs\\Mastersource\\VSCode\\HelloWorldConsole\\HelloWorldConsole.csproj",
+        "projectName": "HelloWorldConsole",
+        "projectPath": "c:\\progs\\Mastersource\\VSCode\\HelloWorldConsole\\HelloWorldConsole.csproj",
         "packagesPath": "C:\\Users\\Harry\\.nuget\\packages\\",
-        "outputPath": "c:\\progs\\Mastersource\\VSCode\\SignalRChat\\obj\\",
+        "outputPath": "c:\\progs\\Mastersource\\VSCode\\HelloWorldConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -40,8 +40,16 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -53,15 +61,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

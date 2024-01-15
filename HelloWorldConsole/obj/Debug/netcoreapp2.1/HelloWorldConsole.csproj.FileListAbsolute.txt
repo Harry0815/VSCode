@@ -9,3 +9,17 @@ c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\He
 c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.AssemblyInfo.cs
 c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.dll
 c:\mastersource\DockerDevEnviroment\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.pdb
+c:\progs\Mastersource\VSCode\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.deps.json
+c:\progs\Mastersource\VSCode\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.runtimeconfig.json
+c:\progs\Mastersource\VSCode\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.runtimeconfig.dev.json
+c:\progs\Mastersource\VSCode\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.dll
+c:\progs\Mastersource\VSCode\HelloWorldConsole\bin\Debug\netcoreapp2.1\HelloWorldConsole.pdb
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.csproj.AssemblyReference.cache
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.AssemblyInfoInputs.cache
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.AssemblyInfo.cs
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.csproj.CoreCompileInputs.cache
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.sourcelink.json
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.dll
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.pdb
+c:\progs\Mastersource\VSCode\HelloWorldConsole\obj\Debug\netcoreapp2.1\HelloWorldConsole.genruntimeconfig.cache
